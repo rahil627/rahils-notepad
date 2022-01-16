@@ -1,0 +1,499 @@
+0000.000 (0) Opened log file at time: Fri, 31 Dec 2021 23:14:38 +0000 on https://rahilpatel.com/blog
+0000.001 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.69 WP: 5.3.10 PHP: 7.4.27 (fpm-fcgi, Linux eloquent-hellman.104-131-91-99.plesk.page 5.4.0-91-generic #102-Ubuntu SMP Fri Nov 5 16:31:28 UTC 2021 x86_64) MySQL: 10.3.32-MariaDB-0ubuntu0.20.04.1 (max packet size=16777216) WPLANG: en_US Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 6.1M | 8M) multisite: N openssl: OpenSSL 1.1.1f  31 Mar 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.002 (0) Free space on disk containing Updraft's temporary directory: 19390.1 MB
+0000.007 (0) Tasks: Backup files: 1 (schedule: monthly) Backup DB: 1 (schedule: monthly)
+0000.011 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.013 (0) Set semaphore last lock (fd) time to 2021-12-31 23:14:38
+0000.014 (0) Semaphore lock (fd) complete
+0000.015 (0) Backup run: resumption=0, nonce=1dca37eb50eb, file_nonce=1dca37eb50eb begun at=1640992478 (0s ago), job type=backup
+0000.016 (0) Scheduling a resumption (1) after 300 seconds (1640992778) in case this run gets aborted
+0000.046 (0) Checking if we have a zip executable available
+0000.047 (0) Creation of backups of directories: beginning
+0000.049 (0) Beginning creation of dump of plugins (split every: 500 MB)
+0006.932 (0) Total entities for the zip file: 2327 directories, 8932 files (0 skipped as non-modified), 127.7 MB
+0006.937 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0007.030 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 100 files added (on-disk size: 439.1 KB)
+0007.057 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 200 files added (on-disk size: 439.1 KB)
+0007.086 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 300 files added (on-disk size: 439.1 KB)
+0007.115 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 400 files added (on-disk size: 439.1 KB)
+0007.146 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 500 files added (on-disk size: 439.1 KB)
+0007.182 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 600 files added (on-disk size: 439.1 KB)
+0007.213 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 700 files added (on-disk size: 439.1 KB)
+0007.245 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 800 files added (on-disk size: 439.1 KB)
+0007.286 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 900 files added (on-disk size: 439.1 KB)
+0007.322 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 1000 files added (on-disk size: 439.1 KB)
+0007.324 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.5 MB, 8932 files batched, 1001 (1002) added so far); re-opening (prior size: 439.1 KB)
+0008.021 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 1100 files added (on-disk size: 3818 KB)
+0008.060 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 1200 files added (on-disk size: 3818 KB)
+0008.096 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 1300 files added (on-disk size: 3818 KB)
+0008.135 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 1400 files added (on-disk size: 3818 KB)
+0008.172 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 1500 files added (on-disk size: 3818 KB)
+0008.207 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 1600 files added (on-disk size: 3818 KB)
+0008.239 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 1700 files added (on-disk size: 3818 KB)
+0008.273 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 1800 files added (on-disk size: 3818 KB)
+0008.282 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 8932 files batched, 814 (1816) added so far); re-opening (prior size: 3818 KB)
+0010.913 (0) A useful amount of data was added after this amount of zip processing: 3.3 s (normalised: 3.3 s, rate: 7737.9 KB/s)
+0010.914 (0) Performance is good - will increase the amount of data we attempt to batch (time=3.3091330528259, normalised_time=3.3084097672891, max_time=10.913094997406, data points known=1, old_max_bytes=26214400, new_max_bytes=51882370)
+0010.977 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 1900 files added (on-disk size: 14884.8 KB)
+0011.019 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 2000 files added (on-disk size: 14884.8 KB)
+0011.071 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 2100 files added (on-disk size: 14884.8 KB)
+0011.110 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 2200 files added (on-disk size: 14884.8 KB)
+0011.166 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 2300 files added (on-disk size: 14884.8 KB)
+0011.203 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 2400 files added (on-disk size: 14884.8 KB)
+0011.235 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 2500 files added (on-disk size: 14884.8 KB)
+0011.263 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 2600 files added (on-disk size: 14884.8 KB)
+0011.290 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 2700 files added (on-disk size: 14884.8 KB)
+0011.318 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 2800 files added (on-disk size: 14884.8 KB)
+0011.323 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.7 MB, 8932 files batched, 1001 (2817) added so far); re-opening (prior size: 14884.8 KB)
+0012.278 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 2900 files added (on-disk size: 17565 KB)
+0012.316 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 3000 files added (on-disk size: 17565 KB)
+0012.362 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 3100 files added (on-disk size: 17565 KB)
+0012.406 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 3200 files added (on-disk size: 17565 KB)
+0012.449 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 3300 files added (on-disk size: 17565 KB)
+0012.491 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 3400 files added (on-disk size: 17565 KB)
+0012.539 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 3500 files added (on-disk size: 17565 KB)
+0012.583 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 3600 files added (on-disk size: 17565 KB)
+0012.627 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 3700 files added (on-disk size: 17565 KB)
+0012.671 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 3800 files added (on-disk size: 17565 KB)
+0012.685 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.1 MB, 8932 files batched, 1001 (3818) added so far); re-opening (prior size: 17565 KB)
+0014.811 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 3900 files added (on-disk size: 19864 KB)
+0014.855 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 4000 files added (on-disk size: 19864 KB)
+0014.897 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 4100 files added (on-disk size: 19864 KB)
+0014.949 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 4200 files added (on-disk size: 19864 KB)
+0014.988 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 4300 files added (on-disk size: 19864 KB)
+0015.027 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 4400 files added (on-disk size: 19864 KB)
+0015.065 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 4500 files added (on-disk size: 19864 KB)
+0015.095 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 4600 files added (on-disk size: 19864 KB)
+0015.121 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 4700 files added (on-disk size: 19864 KB)
+0015.153 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 4800 files added (on-disk size: 19864 KB)
+0015.159 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.7 MB, 8932 files batched, 1001 (4819) added so far); re-opening (prior size: 19864 KB)
+0015.867 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 4900 files added (on-disk size: 21129 KB)
+0015.897 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 5000 files added (on-disk size: 21129 KB)
+0015.934 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 5100 files added (on-disk size: 21129 KB)
+0015.971 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 5200 files added (on-disk size: 21129 KB)
+0016.002 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 5300 files added (on-disk size: 21129 KB)
+0016.063 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 5400 files added (on-disk size: 21129 KB)
+0016.113 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 5500 files added (on-disk size: 21129 KB)
+0016.159 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 5600 files added (on-disk size: 21129 KB)
+0016.202 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 5700 files added (on-disk size: 21129 KB)
+0016.237 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 5800 files added (on-disk size: 21129 KB)
+0016.245 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.3 MB, 8932 files batched, 1001 (5820) added so far); re-opening (prior size: 21129 KB)
+0018.318 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 5900 files added (on-disk size: 26481.5 KB)
+0018.349 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 6000 files added (on-disk size: 26481.5 KB)
+0018.385 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 6100 files added (on-disk size: 26481.5 KB)
+0018.418 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 6200 files added (on-disk size: 26481.5 KB)
+0018.450 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 6300 files added (on-disk size: 26481.5 KB)
+0018.482 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 6400 files added (on-disk size: 26481.5 KB)
+0018.514 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 6500 files added (on-disk size: 26481.5 KB)
+0018.546 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 6600 files added (on-disk size: 26481.5 KB)
+0018.582 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 6700 files added (on-disk size: 26481.5 KB)
+0018.615 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 6800 files added (on-disk size: 26481.5 KB)
+0018.622 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11 MB, 8932 files batched, 1001 (6821) added so far); re-opening (prior size: 26481.5 KB)
+0019.603 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 6900 files added (on-disk size: 30053.8 KB)
+0019.639 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 7000 files added (on-disk size: 30053.8 KB)
+0019.670 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 7100 files added (on-disk size: 30053.8 KB)
+0019.700 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 7200 files added (on-disk size: 30053.8 KB)
+0019.732 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 7300 files added (on-disk size: 30053.8 KB)
+0019.765 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 7400 files added (on-disk size: 30053.8 KB)
+0019.795 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 7500 files added (on-disk size: 30053.8 KB)
+0019.830 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 7600 files added (on-disk size: 30053.8 KB)
+0019.870 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 7700 files added (on-disk size: 30053.8 KB)
+0019.911 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 7800 files added (on-disk size: 30053.8 KB)
+0019.925 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.2 MB, 8932 files batched, 1001 (7822) added so far); re-opening (prior size: 30053.8 KB)
+0022.822 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 7900 files added (on-disk size: 39248.6 KB)
+0022.898 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 8000 files added (on-disk size: 39248.6 KB)
+0022.969 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 8100 files added (on-disk size: 39248.6 KB)
+0023.051 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 8200 files added (on-disk size: 39248.6 KB)
+0023.132 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 8300 files added (on-disk size: 39248.6 KB)
+0023.214 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 8400 files added (on-disk size: 39248.6 KB)
+0023.294 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 8500 files added (on-disk size: 39248.6 KB)
+0023.355 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 8600 files added (on-disk size: 39248.6 KB)
+0023.421 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 8700 files added (on-disk size: 39248.6 KB)
+0023.476 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 8800 files added (on-disk size: 39248.6 KB)
+0023.490 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.4 MB, 8932 files batched, 1001 (8823) added so far); re-opening (prior size: 39248.6 KB)
+0025.540 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.tmp: 8900 files added (on-disk size: 42570.8 KB)
+0026.072 (0) Creating zip file manifest (/var/www/vhosts/rahilpatel.com/httpdocs/blog/wp-content/updraft/backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.list-temp.tmp)
+0026.108 (0) Successfully created zip file manifest (size: 751945)
+0026.792 (0) Created plugins zip (0) - 42860.9 KB in 26.7 s (1602.8 KB/s) (sha1: 53a07b66c24c88fd52c3ffd2ad23b067ccfcd4d6, sha256: 90f414a08f3210ca43f54174c2c319d37535c1900657d1456852f812cf368ce2)
+0026.796 (0) Beginning creation of dump of themes (split every: 500 MB)
+0027.622 (0) Total entities for the zip file: 178 directories, 1242 files (0 skipped as non-modified), 17.8 MB
+0027.651 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0027.683 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0027.713 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0027.746 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0027.775 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0027.804 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0027.834 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0027.866 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0027.895 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0027.923 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0027.924 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14 MB, 1242 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0029.081 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 1100 files added (on-disk size: 9834.7 KB)
+0029.109 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.tmp: 1200 files added (on-disk size: 9834.7 KB)
+0029.493 (0) Creating zip file manifest (/var/www/vhosts/rahilpatel.com/httpdocs/blog/wp-content/updraft/backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.list-temp.tmp)
+0029.498 (0) Successfully created zip file manifest (size: 60618)
+0029.644 (0) Created themes zip (0) - 12538.7 KB in 2.8 s (4410.9 KB/s) (sha1: 58a47ccbcc7c6ea69c01d4452c6aa00e80af6efc, sha256: f4e5609ee56217056d8e5fbf1f1d778734204ea20b0bbf0bdf54d495dd05b85d)
+0029.646 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone
+0029.647 (0) Looking for candidates to backup in: /var/www/vhosts/rahilpatel.com/httpdocs/blog/wp-content/uploads
+0029.648 (0) finding files: giftly-150x150.png: adding to list (1)
+0029.648 (0) finding files: falcon-footer-150x150.png: adding to list (2)
+0029.648 (0) finding files: bright_squares_@2X.png: adding to list (3)
+0029.649 (0) finding files: light_honeycomb_@2X-150x150.png: adding to list (4)
+0029.649 (0) finding files: useanyfont: adding to list (5)
+0029.649 (0) finding files: old_map_@2X-150x150.png: adding to list (6)
+0029.650 (0) finding files: felt_@2X.png: adding to list (7)
+0029.650 (0) finding files: resume.pdf: adding to list (8)
+0029.650 (0) finding files: mochaGrunge-300x300.png: adding to list (9)
+0029.651 (0) finding files: falcon-footer-80-quality.jpg: adding to list (10)
+0029.651 (0) finding files: ricepaper_v3-150x150.png: adding to list (11)
+0029.651 (0) finding files: 2010: adding to list (12)
+0029.652 (0) finding files: mirrored_squares.png: adding to list (13)
+0029.652 (0) finding files: felt_@2X-150x150.png: adding to list (14)
+0029.652 (0) finding files: light_honeycomb_@2X-280x300.png: adding to list (15)
+0029.653 (0) finding files: bedge_grunge_@2X-300x191.png: adding to list (16)
+0029.653 (0) finding files: falcon-footer-80-quality-300x204.jpg: adding to list (17)
+0029.653 (0) finding files: falcon-footer-full-image-150x150.png: adding to list (18)
+0029.654 (0) finding files: bedge_grunge_@2X-150x150.png: adding to list (19)
+0029.654 (0) finding files: falcon-footer.png: adding to list (20)
+0029.654 (0) finding files: bright_squares.png: adding to list (21)
+0029.655 (0) finding files: felt-300x280.png: adding to list (22)
+0029.655 (0) finding files: bedge_grunge_@2X-1024x653.png: adding to list (23)
+0029.655 (0) finding files: old_map_@2X-300x300.png: adding to list (24)
+0029.656 (0) finding files: lined_paper_@2X-150x150.png: adding to list (25)
+0029.656 (0) finding files: .tmb: adding to list (26)
+0029.656 (0) finding files: cork-wallet.png: adding to list (27)
+0029.657 (0) finding files: honey_im_subtle.png: adding to list (28)
+0029.657 (0) finding files: otis_redding_@2X-150x150.png: adding to list (29)
+0029.657 (0) finding files: felt.png: adding to list (30)
+0029.658 (0) finding files: falcon-footer-160x235-100-quality-150x150.jpg: adding to list (31)
+0029.658 (0) finding files: light_honeycomb.png: adding to list (32)
+0029.658 (0) finding files: giftly.png: adding to list (33)
+0029.659 (0) finding files: ricepaper_v3_@2X-300x300.png: adding to list (34)
+0029.659 (0) finding files: skulls-150x150.png: adding to list (35)
+0029.660 (0) finding files: old_map-150x150.png: adding to list (36)
+0029.660 (0) finding files: subtle_grunge.png: adding to list (37)
+0029.660 (0) finding files: retro_intro.png: adding to list (38)
+0029.660 (0) finding files: 2016: adding to list (39)
+0029.661 (0) finding files: solid_@2X.png: adding to list (40)
+0029.661 (0) finding files: felt_@2X-300x280.png: adding to list (41)
+0029.661 (0) finding files: 2015: adding to list (42)
+0029.662 (0) finding files: falcon-footer-100-quality.jpg: adding to list (43)
+0029.662 (0) finding files: 2012: adding to list (44)
+0029.662 (0) finding files: falcon-footer-full-image-616x1024.png: adding to list (45)
+0029.663 (0) finding files: skulls.png: adding to list (46)
+0029.663 (0) finding files: falcon-footer-80-quality-150x150.jpg: adding to list (47)
+0029.663 (0) finding files: ricepaper_v3_@2X.png: adding to list (48)
+0029.664 (0) finding files: solid_@2X-150x150.png: adding to list (49)
+0029.664 (0) finding files: falcon-footer-160x235.png: adding to list (50)
+0029.664 (0) finding files: sprinkles.png: adding to list (51)
+0029.664 (0) finding files: 2011: adding to list (52)
+0029.664 (0) finding files: norwegian_rose.png: adding to list (53)
+0029.664 (0) finding files: bright_squares_@2X-150x150.png: adding to list (54)
+0029.664 (0) finding files: sprinkles_@2x.png: adding to list (55)
+0029.664 (0) finding files: lined_paper-150x150.png: adding to list (56)
+0029.664 (0) finding files: honey_im_subtle_@2X-150x150.png: adding to list (57)
+0029.664 (0) finding files: solid_@2X-300x300.png: adding to list (58)
+0029.664 (0) finding files: 2021: adding to list (59)
+0029.664 (0) finding files: mirrored_squares-150x150.png: adding to list (60)
+0029.664 (0) finding files: falcon-footer-100-quality-300x204.jpg: adding to list (61)
+0029.664 (0) finding files: otis_redding.png: adding to list (62)
+0029.664 (0) finding files: bedge_grunge-300x191.png: adding to list (63)
+0029.665 (0) finding files: ricepaper_v3_@2X-150x150.png: adding to list (64)
+0029.665 (0) finding files: falcon-footer-300x204.png: adding to list (65)
+0029.665 (0) finding files: mirrored_squares_@2X-300x300.png: adding to list (66)
+0029.665 (0) finding files: nasty_fabric-150x150.png: adding to list (67)
+0029.665 (0) finding files: subtle_grunge-150x150.png: adding to list (68)
+0029.665 (0) finding files: solid-150x150.png: adding to list (69)
+0029.665 (0) finding files: wpo-plugins-tables-list.json: adding to list (70)
+0029.665 (0) finding files: bedge_grunge_@2X.png: adding to list (71)
+0029.665 (0) finding files: falcon-footer-full-image-180x300.png: adding to list (72)
+0029.665 (0) finding files: 2013: adding to list (73)
+0029.665 (0) finding files: light_honeycomb-150x150.png: adding to list (74)
+0029.665 (0) finding files: 2020: adding to list (75)
+0029.665 (0) finding files: ricepaper_v3.png: adding to list (76)
+0029.665 (0) finding files: old_map.png: adding to list (77)
+0029.665 (0) finding files: swirl_pattern.png: adding to list (78)
+0029.665 (0) finding files: mochaGrunge_@2X.png: adding to list (79)
+0029.665 (0) finding files: felt-150x150.png: adding to list (80)
+0029.665 (0) finding files: honey_im_subtle_@2X-300x221.png: adding to list (81)
+0029.665 (0) finding files: lined_paper_@2X.png: adding to list (82)
+0029.665 (0) finding files: skulls-300x300.png: adding to list (83)
+0029.665 (0) finding files: mochaGrunge.png: adding to list (84)
+0029.665 (0) finding files: nasty_fabric.png: adding to list (85)
+0029.665 (0) finding files: retro_intro_@2X-150x150.png: adding to list (86)
+0029.665 (0) finding files: bright_squares_@2X-300x300.png: adding to list (87)
+0029.665 (0) finding files: swirl_pattern-150x150.png: adding to list (88)
+0029.665 (0) finding files: cork-wallet-150x150.png: adding to list (89)
+0029.665 (0) finding files: falcon-footer-160x235-100-quality.jpg: adding to list (90)
+0029.665 (0) finding files: subtle_grunge-300x300.png: adding to list (91)
+0029.665 (0) finding files: 2014: adding to list (92)
+0029.665 (0) finding files: falcon-footer-full-image.png: adding to list (93)
+0029.665 (0) finding files: falcon-footer-160x235-150x150.png: adding to list (94)
+0029.665 (0) finding files: mirrored_squares_@2X-150x150.png: adding to list (95)
+0029.665 (0) finding files: falcon-footer-160x235-80-quality.jpg: adding to list (96)
+0029.665 (0) finding files: honey_im_subtle_@2X.png: adding to list (97)
+0029.665 (0) finding files: .quarantine: adding to list (98)
+0029.665 (0) finding files: falcon-footer-100-quality-150x150.jpg: adding to list (99)
+0029.665 (0) finding files: bedge_grunge-150x150.png: adding to list (100)
+0029.665 (0) finding files: mirrored_squares_@2X.png: adding to list (101)
+0029.665 (0) finding files: file-manager: adding to list (102)
+0029.665 (0) finding files: mochaGrunge-150x150.png: adding to list (103)
+0029.665 (0) finding files: mochaGrunge_@2X-300x300.png: adding to list (104)
+0029.665 (0) finding files: lined_paper_@2X-300x224.png: adding to list (105)
+0029.665 (0) finding files: mochaGrunge_@2X-150x150.png: adding to list (106)
+0029.665 (0) finding files: retro_intro_@2X.png: adding to list (107)
+0029.665 (0) finding files: solid-300x300.png: adding to list (108)
+0029.665 (0) finding files: honey_im_subtle-150x132.png: adding to list (109)
+0029.665 (0) finding files: lined_paper-300x224.png: adding to list (110)
+0029.665 (0) finding files: light_honeycomb_@2X.png: adding to list (111)
+0029.665 (0) finding files: bedge_grunge.png: adding to list (112)
+0029.665 (0) finding files: otis_redding_@2X.png: adding to list (113)
+0029.665 (0) finding files: bright_squares-150x150.png: adding to list (114)
+0029.665 (0) finding files: lined_paper.png: adding to list (115)
+0029.665 (0) finding files: solid.png: adding to list (116)
+0029.665 (0) finding files: subtle_white_mini_waves.png: adding to list (117)
+0029.665 (0) finding files: falcon-footer-160x235-80-quality-150x150.jpg: adding to list (118)
+0029.665 (0) finding files: old_map_@2X.png: adding to list (119)
+0029.665 (0) Beginning creation of dump of uploads (split every: 500 MB)
+0029.818 (0) Total entities for the zip file: 60 directories, 223 files (0 skipped as non-modified), 10.6 MB
+0029.845 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0029.877 (0) Zip: backup_2021-12-31-1814_Rahil_1dca37eb50eb-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0030.309 (0) Creating zip file manifest (/var/www/vhosts/rahilpatel.com/httpdocs/blog/wp-content/updraft/backup_2021-12-31-1814_Rahil_1dca37eb50eb-uploads.zip.list-temp.tmp)
+0030.311 (0) Successfully created zip file manifest (size: 11033)
+0030.431 (0) Created uploads zip (0) - 10091.5 KB in 0.8 s (13229.3 KB/s) (sha1: d544649e2d06437cb2ae255cdf85f00ad453e018, sha256: f2161313d8bf1104b76a02438d37c2d932f67ad695d3338aef1df76a047d21b8)
+0030.434 (0) Beginning backup of other directories found in the content directory (index: 0)
+0030.434 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups
+0030.435 (0) Looking for candidates to backup in: /var/www/vhosts/rahilpatel.com/httpdocs/blog/wp-content
+0030.435 (0) finding files: plugins: skipping: this is the plugins directory
+0030.436 (0) finding files: index.php: adding to list (1)
+0030.436 (0) finding files: cache: skipping: excluded by options
+0030.436 (0) finding files: themes: skipping: this is the themes directory
+0030.437 (0) finding files: updraft: skipping: this is the updraft directory
+0030.437 (0) finding files: wpo-cache: adding to list (2)
+0030.437 (0) finding files: advanced-cache.php: adding to list (3)
+0030.438 (0) finding files: upgrade: skipping: excluded by options
+0030.438 (0) finding files: w3tc-config: adding to list (4)
+0030.438 (0) finding files: uploads: skipping: this is the uploads directory
+0030.446 (0) Total entities for the zip file: 3 directories, 6 files (0 skipped as non-modified), 0 MB
+0030.454 (0) Creating zip file manifest (/var/www/vhosts/rahilpatel.com/httpdocs/blog/wp-content/updraft/backup_2021-12-31-1814_Rahil_1dca37eb50eb-others.zip.list-temp.tmp)
+0030.455 (0) Successfully created zip file manifest (size: 227)
+0030.457 (0) Created others zip (0) - 8.8 KB in 0 s (549.8 KB/s) (sha1: 1babcc5b08048dc8d7da07d54be60f63cc569bad, sha256: fc47dcb12eb6dc53c9c5cae5d49d2735f4f9e8c1d0a9ca1926731957c9f853cf)
+0030.461 (0) Saving backup status to database (elements: 8)
+0030.463 (0) Beginning creation of database dump (WordPress DB)
+0030.466 (0) SQL compatibility mode is: ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0030.523 (0) Table wpgc_options: Total expected rows (approximate): 3367
+0030.656 (0) Table wpgc_options: Rows added in this batch (next record: 306238): 3363 (uncompressed bytes in this segment=3238090) in 0.17 seconds
+0030.660 (0) Table wpgc_options: finishing file(s) (2, 428.5 KB)
+0030.662 (0) Table wpgc_users: Total expected rows (via COUNT): 1
+0030.663 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0030.666 (0) Table wpgc_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1346) in 0.01 seconds
+0030.669 (0) Table wpgc_users: finishing file(s) (2, 0.6 KB)
+0030.691 (0) Table wpgc_usermeta: Total expected rows (via COUNT): 70
+0030.691 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0030.694 (0) Table wpgc_usermeta: Rows added in this batch (next record: 46278): 70 (uncompressed bytes in this segment=9590) in 0.02 seconds
+0030.697 (0) Table wpgc_usermeta: finishing file(s) (2, 3.4 KB)
+0030.700 (0) Table wpgc_commentmeta: Total expected rows (via COUNT): 0
+0030.701 (0) Table wpgc_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=716) in 0.00 seconds
+0030.705 (0) Table wpgc_commentmeta: finishing file(s) (2, 0.4 KB)
+0030.707 (0) Table wpgc_comments: Total expected rows (via COUNT): 5
+0030.708 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0030.710 (0) Table wpgc_comments: Rows added in this batch (next record: 340): 5 (uncompressed bytes in this segment=3997) in 0.00 seconds
+0030.713 (0) Table wpgc_comments: finishing file(s) (2, 1.6 KB)
+0030.715 (0) Table wpgc_links: Total expected rows (via COUNT): 7
+0030.716 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0030.717 (0) Table wpgc_links: Rows added in this batch (next record: 7): 7 (uncompressed bytes in this segment=2159) in 0.00 seconds
+0030.719 (0) Table wpgc_links: finishing file(s) (2, 0.7 KB)
+0030.723 (0) Table wpgc_postmeta: Total expected rows (approximate): 2025
+0030.749 (0) Table wpgc_postmeta: Rows added in this batch (next record: 13757): 2025 (uncompressed bytes in this segment=216572) in 0.03 seconds
+0030.753 (0) Table wpgc_postmeta: finishing file(s) (2, 33.4 KB)
+0030.821 (0) Table wpgc_posts: Total expected rows (via COUNT): 647
+0031.154 (0) Table wpgc_posts: Rows added in this batch (next record: 8217): 647 (uncompressed bytes in this segment=5909990) in 0.40 seconds
+0031.157 (0) Table wpgc_posts: finishing file(s) (2, 1456.2 KB)
+0031.160 (0) Table wpgc_term_relationships: Total expected rows (approximate): 1726
+0031.166 (0) Table wpgc_term_relationships: Rows added in this batch (next record: 100000): 1726 (uncompressed bytes in this segment=29279) in 0.01 seconds
+0031.169 (0) Table wpgc_term_relationships: finishing file(s) (2, 5.9 KB)
+0031.174 (0) Table wpgc_term_taxonomy: Total expected rows (via COUNT): 241
+0031.174 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.178 (0) Table wpgc_term_taxonomy: Rows added in this batch (next record: 260): 241 (uncompressed bytes in this segment=24794) in 0.01 seconds
+0031.181 (0) Table wpgc_term_taxonomy: finishing file(s) (2, 8.1 KB)
+0031.184 (0) Table wpgc_termmeta: Total expected rows (via COUNT): 0
+0031.185 (0) Table wpgc_termmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=669) in 0.00 seconds
+0031.188 (0) Table wpgc_termmeta: finishing file(s) (2, 0.4 KB)
+0031.191 (0) Table wpgc_terms: Total expected rows (via COUNT): 241
+0031.192 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.196 (0) Table wpgc_terms: Rows added in this batch (next record: 260): 241 (uncompressed bytes in this segment=11126) in 0.01 seconds
+0031.200 (0) Table wpgc_terms: finishing file(s) (2, 3.6 KB)
+0031.226 (0) Table wpgc_redirection_404: Total expected rows (via COUNT): 0
+0031.228 (0) Table wpgc_redirection_404: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1068) in 0.00 seconds
+0031.232 (0) Table wpgc_redirection_404: finishing file(s) (2, 0.4 KB)
+0031.235 (0) Table wpgc_redirection_groups: Total expected rows (via COUNT): 2
+0031.236 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.238 (0) Table wpgc_redirection_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=968) in 0.00 seconds
+0031.241 (0) Table wpgc_redirection_groups: finishing file(s) (2, 0.5 KB)
+0031.245 (0) Table wpgc_redirection_items: Total expected rows (via COUNT): 92
+0031.245 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.250 (0) Table wpgc_redirection_items: Rows added in this batch (next record: 98): 92 (uncompressed bytes in this segment=26403) in 0.01 seconds
+0031.254 (0) Table wpgc_redirection_items: finishing file(s) (2, 4 KB)
+0031.258 (0) Table wpgc_redirection_logs: Total expected rows (via COUNT): 0
+0031.260 (0) Table wpgc_redirection_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1260) in 0.00 seconds
+0031.264 (0) Table wpgc_redirection_logs: finishing file(s) (2, 0.5 KB)
+0031.269 (0) Table wpgc_tm_taskmeta: Total expected rows (via COUNT): 0
+0031.271 (0) Table wpgc_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=681) in 0.00 seconds
+0031.274 (0) Table wpgc_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0031.278 (0) Table wpgc_tm_tasks: Total expected rows (via COUNT): 0
+0031.279 (0) Table wpgc_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=886) in 0.00 seconds
+0031.282 (0) Table wpgc_tm_tasks: finishing file(s) (2, 0.4 KB)
+0031.285 (0) Table wpgc_yoast_seo_links: Total expected rows (via COUNT): 56
+0031.285 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.290 (0) Table wpgc_yoast_seo_links: Rows added in this batch (next record: 2080): 56 (uncompressed bytes in this segment=5569) in 0.01 seconds
+0031.292 (0) Table wpgc_yoast_seo_links: finishing file(s) (2, 1.5 KB)
+0031.294 (0) Table wpgc_yoast_seo_meta: Total expected rows (via COUNT): 55
+0031.295 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0031.297 (0) Table wpgc_yoast_seo_meta: Rows added in this batch (next record: 8187): 55 (uncompressed bytes in this segment=1470) in 0.00 seconds
+0031.299 (0) Table wpgc_yoast_seo_meta: finishing file(s) (2, 0.6 KB)
+0031.301 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_options.table.tmpr306239.gz (1/20/fopen): adding to final database dump
+0031.307 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_options.table.gz (2/20/fopen): adding to final database dump
+0031.308 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_users.table.tmpr2.gz (3/20/fopen): adding to final database dump
+0031.309 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_users.table.gz (4/20/fopen): adding to final database dump
+0031.309 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_usermeta.table.tmpr46279.gz (5/20/fopen): adding to final database dump
+0031.310 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_usermeta.table.gz (6/20/fopen): adding to final database dump
+0031.310 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_commentmeta.table.tmpr0.gz (7/20/fopen): adding to final database dump
+0031.311 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_commentmeta.table.gz (8/20/fopen): adding to final database dump
+0031.311 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_comments.table.tmpr341.gz (9/20/fopen): adding to final database dump
+0031.312 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_comments.table.gz (10/20/fopen): adding to final database dump
+0031.312 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_links.table.tmpr8.gz (11/20/fopen): adding to final database dump
+0031.313 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_links.table.gz (12/20/fopen): adding to final database dump
+0031.313 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_postmeta.table.tmpr13758.gz (13/20/fopen): adding to final database dump
+0031.314 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_postmeta.table.gz (14/20/fopen): adding to final database dump
+0031.315 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_posts.table.tmpr8218.gz (15/20/fopen): adding to final database dump
+0031.333 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_posts.table.gz (16/20/fopen): adding to final database dump
+0031.334 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_term_relationships.table.tmpr100001.gz (17/20/fopen): adding to final database dump
+0031.335 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_term_relationships.table.gz (18/20/fopen): adding to final database dump
+0031.335 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_term_taxonomy.table.tmpr261.gz (19/20/fopen): adding to final database dump
+0031.336 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_term_taxonomy.table.gz (20/20/fopen): adding to final database dump
+0031.336 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_termmeta.table.tmpr0.gz (21/20/fopen): adding to final database dump
+0031.337 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_termmeta.table.gz (22/20/fopen): adding to final database dump
+0031.337 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_terms.table.tmpr261.gz (23/20/fopen): adding to final database dump
+0031.338 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_terms.table.gz (24/20/fopen): adding to final database dump
+0031.338 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_redirection_404.table.tmpr0.gz (25/20/fopen): adding to final database dump
+0031.339 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_redirection_404.table.gz (26/20/fopen): adding to final database dump
+0031.339 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_redirection_groups.table.tmpr3.gz (27/20/fopen): adding to final database dump
+0031.340 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_redirection_groups.table.gz (28/20/fopen): adding to final database dump
+0031.340 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_redirection_items.table.tmpr99.gz (29/20/fopen): adding to final database dump
+0031.341 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_redirection_items.table.gz (30/20/fopen): adding to final database dump
+0031.341 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_redirection_logs.table.tmpr0.gz (31/20/fopen): adding to final database dump
+0031.342 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_redirection_logs.table.gz (32/20/fopen): adding to final database dump
+0031.342 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_tm_taskmeta.table.tmpr0.gz (33/20/fopen): adding to final database dump
+0031.343 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_tm_taskmeta.table.gz (34/20/fopen): adding to final database dump
+0031.343 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_tm_tasks.table.tmpr0.gz (35/20/fopen): adding to final database dump
+0031.344 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_tm_tasks.table.gz (36/20/fopen): adding to final database dump
+0031.344 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_yoast_seo_links.table.tmpr2081.gz (37/20/fopen): adding to final database dump
+0031.345 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_yoast_seo_links.table.gz (38/20/fopen): adding to final database dump
+0031.345 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_yoast_seo_meta.table.tmpr8188.gz (39/20/fopen): adding to final database dump
+0031.346 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db-table-wpgc_yoast_seo_meta.table.gz (40/20/fopen): adding to final database dump
+0031.353 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db.gz: finished writing out complete database file (1951 KB)
+0031.385 (0) Total database tables backed up: 20 (backup_2021-12-31-1814_Rahil_1dca37eb50eb-db.gz, size: 1997906, sha1: 3d22c911e88d9577450b990e21446d9410394b9e, sha256: a37b8d54bbc68281d0678d7254db3ff70e829b40f7dc384489154d90e548ca22)
+0031.391 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0031.392 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0031.392 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0031.393 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-others.zip: others: This file has not yet been successfully uploaded: will queue
+0031.393 (0) backup_2021-12-31-1814_Rahil_1dca37eb50eb-db.gz: db: This file has not yet been successfully uploaded: will queue
+0031.394 (0) Saving backup history. Total backup size: 65.9 MB
+0031.397 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0031.398 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0031.399 (0) No remote despatch: user chose no remote backup service
+0031.399 (0) Recording as successfully uploaded: backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip
+0031.400 (0) Deleting zip manifest (backup_2021-12-31-1814_Rahil_1dca37eb50eb-plugins.zip.list.tmp)
+0031.401 (0) Recording as successfully uploaded: backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip
+0031.402 (0) Deleting zip manifest (backup_2021-12-31-1814_Rahil_1dca37eb50eb-themes.zip.list.tmp)
+0031.402 (0) Recording as successfully uploaded: backup_2021-12-31-1814_Rahil_1dca37eb50eb-uploads.zip
+0031.403 (0) Deleting zip manifest (backup_2021-12-31-1814_Rahil_1dca37eb50eb-uploads.zip.list.tmp)
+0031.404 (0) Recording as successfully uploaded: backup_2021-12-31-1814_Rahil_1dca37eb50eb-others.zip
+0031.405 (0) Deleting zip manifest (backup_2021-12-31-1814_Rahil_1dca37eb50eb-others.zip.list.tmp)
+0031.405 (0) Recording as successfully uploaded: backup_2021-12-31-1814_Rahil_1dca37eb50eb-db.gz
+0031.407 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=6, retain_db=12
+0031.408 (0) These backup set(s) were imported from a remote location, so will not be counted or pruned. Skipping: 1640793540
+0031.409 (0) Number of backup sets in history: 15; groups (db): 1
+0031.409 (0) Examining (for databases) backup set with group_id=0, nonce=1dca37eb50eb, datestamp=1640992478 (Dec 31 2021 23:14:38)
+0031.409 (0) This backup set is the backup set just made, so will not be deleted.
+0031.409 (0) Examining (for databases) backup set with group_id=0, nonce=08ebc56e1da2, datestamp=1640873919 (Dec 30 2021 14:18:39)
+0031.409 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.410 (0) Examining (for databases) backup set with group_id=0, nonce=ae2dd1a7d773, datestamp=1593382386 (Jun 28 2020 22:13:06)
+0031.410 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.410 (0) Examining (for databases) backup set with group_id=0, nonce=893af594052f, datestamp=1590790356 (May 29 2020 22:12:36)
+0031.410 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.410 (0) Examining (for databases) backup set with group_id=0, nonce=b31716b3e86a, datestamp=1588198397 (Apr 29 2020 22:13:17)
+0031.410 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.410 (0) Examining (for databases) backup set with group_id=0, nonce=ae6978090ab7, datestamp=1585606298 (Mar 30 2020 22:11:38)
+0031.410 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.411 (0) Examining (for databases) backup set with group_id=0, nonce=bad259103f0e, datestamp=1583570160 (Mar 07 2020 08:36:00)
+0031.411 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.411 (0) Examining (for databases) backup set with group_id=0, nonce=a410148c0d18, datestamp=1583014545 (Feb 29 2020 22:15:45)
+0031.411 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0031.411 (0) Examining (for databases) backup set with group_id=0, nonce=80bc1e0bf14b, datestamp=1582836438 (Feb 27 2020 20:47:18)
+0031.411 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0031.411 (0) Examining (for databases) backup set with group_id=0, nonce=ad66f41652fe, datestamp=1549318261 (Feb 04 2019 22:11:01)
+0031.411 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.411 (0) Examining (for databases) backup set with group_id=0, nonce=e3c78742b260, datestamp=1546726332 (Jan 05 2019 22:12:12)
+0031.411 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0031.412 (0) Examining (for databases) backup set with group_id=0, nonce=54fe3032ac31, datestamp=1544134392 (Dec 06 2018 22:13:12)
+0031.412 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0031.412 (0) Examining (for databases) backup set with group_id=0, nonce=a6f7f9be202b, datestamp=1541542245 (Nov 06 2018 22:10:45)
+0031.412 (0) 1541542245: db: this set includes a database (backup_2018-11-06-1710_Rahil_a6f7f9be202b-db.gz); db count is now 12
+0031.412 (0) 1541542245: db: over retain limit (12); will delete this database
+0031.412 (0) Delete file: backup_2018-11-06-1710_Rahil_a6f7f9be202b-db.gz, service=none
+0031.413 (0) This backup set is now empty; will remove from history
+0031.414 (0) Corresponding log file (log.a6f7f9be202b.txt) not found - must have already been deleted
+0031.414 (0) Examining (for databases) backup set with group_id=0, nonce=65998c1bf136, datestamp=1538950259 (Oct 07 2018 22:10:59)
+0031.414 (0) 1538950259: db: this set includes a database (backup_2018-10-07-1810_Rahil_65998c1bf136-db.gz); db count is now 12
+0031.414 (0) 1538950259: db: over retain limit (12); will delete this database
+0031.414 (0) Delete file: backup_2018-10-07-1810_Rahil_65998c1bf136-db.gz, service=none
+0031.415 (0) This backup set is now empty; will remove from history
+0031.416 (0) Corresponding log file (log.65998c1bf136.txt) not found - must have already been deleted
+0031.416 (0) Number of backup sets in history: 13; groups (files): 1
+0031.416 (0) Examining (for files) backup set with nonce=1dca37eb50eb, datestamp=1640992478 (Dec 31 2021 23:14:38)
+0031.416 (0) This backup set is the backup set just made, so will not be deleted.
+0031.417 (0) This backup set is the backup set just made, so will not be deleted.
+0031.417 (0) This backup set is the backup set just made, so will not be deleted.
+0031.417 (0) This backup set is the backup set just made, so will not be deleted.
+0031.417 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.417 (0) Examining (for files) backup set with nonce=08ebc56e1da2, datestamp=1640873919 (Dec 30 2021 14:18:39)
+0031.417 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.417 (0) Examining (for files) backup set with nonce=ae2dd1a7d773, datestamp=1593382386 (Jun 28 2020 22:13:06)
+0031.417 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.417 (0) Examining (for files) backup set with nonce=893af594052f, datestamp=1590790356 (May 29 2020 22:12:36)
+0031.417 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.417 (0) Examining (for files) backup set with nonce=b31716b3e86a, datestamp=1588198397 (Apr 29 2020 22:13:17)
+0031.417 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.417 (0) Examining (for files) backup set with nonce=ae6978090ab7, datestamp=1585606298 (Mar 30 2020 22:11:38)
+0031.417 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0031.417 (0) Examining (for files) backup set with nonce=bad259103f0e, datestamp=1583570160 (Mar 07 2020 08:36:00)
+0031.417 (0) plugins: over retain limit (6); will delete this file entity
+0031.417 (0) themes: over retain limit (6); will delete this file entity
+0031.417 (0) uploads: over retain limit (6); will delete this file entity
+0031.417 (0) others: over retain limit (6); will delete this file entity
+0031.417 (0) Delete file: backup_2020-03-07-0336_Rahil_bad259103f0e-plugins.zip, service=none
+0031.418 (0) Delete file: backup_2020-03-07-0336_Rahil_bad259103f0e-themes.zip, service=none
+0031.418 (0) Delete file: backup_2020-03-07-0336_Rahil_bad259103f0e-uploads.zip, service=none
+0031.419 (0) Delete file: backup_2020-03-07-0336_Rahil_bad259103f0e-others.zip, service=none
+0031.420 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0031.420 (0) Examining (for files) backup set with nonce=a410148c0d18, datestamp=1583014545 (Feb 29 2020 22:15:45)
+0031.420 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0031.420 (0) Examining (for files) backup set with nonce=80bc1e0bf14b, datestamp=1582836438 (Feb 27 2020 20:47:18)
+0031.420 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0031.420 (0) Examining (for files) backup set with nonce=ad66f41652fe, datestamp=1549318261 (Feb 04 2019 22:11:01)
+0031.420 (0) themes: over retain limit (6); will delete this file entity
+0031.420 (0) Delete file: backup_2019-02-04-1711_rahil_ad66f41652fe-themes.zip, service=none
+0031.421 (0) Deleting local copy (backup_2019-02-04-1711_rahil_ad66f41652fe-themes.zip)
+0031.423 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0031.424 (0) Examining (for files) backup set with nonce=e3c78742b260, datestamp=1546726332 (Jan 05 2019 22:12:12)
+0031.424 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0031.424 (0) Examining (for files) backup set with nonce=54fe3032ac31, datestamp=1544134392 (Dec 06 2018 22:13:12)
+0031.424 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0031.424 (0) Retain: saving new backup history (sets now: 13) and finishing retain operation
+0031.427 (0) Resume backup (1dca37eb50eb, 0): finish run
+0031.428 (0) Decremented the semaphore (fd) by 1
+0031.429 (0) Semaphore (fd) unlocked
+0031.430 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0031.432 (0) No email will/can be sent - the user has not configured an email address.
+0031.432 (0) The backup apparently succeeded and is now complete
