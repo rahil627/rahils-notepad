@@ -1,0 +1,125 @@
+------------------------------------------------------------
+  Plugin list generated with BackWPup version: 3.10.0
+  http://backwpup.com
+  Blog Name: Rahil
+  Blog URL: https://rahilpatel.com/blog
+  Generated on: 2022-01-15 18:13.14
+------------------------------------------------------------
+
+
+All plugin information:
+------------------------------
+Akismet Anti-Spam (v.4.2.1) from Automattic
+	https://akismet.com/
+All-in-One WP Migration (v.7.51) from ServMask
+	https://servmask.com/
+Auto-hyperlink URLs (v.5.4.1) from Scott Reilly
+	http://coffee2code.com/wp-plugins/auto-hyperlink-urls/
+BackWPup (v.3.10.0) from Inpsyde GmbH
+	http://backwpup.com
+Classic Editor (v.1.6.2) from WordPress Contributors
+	https://wordpress.org/plugins/classic-editor/
+Classic Widgets (v.0.2) from WordPress Contributors
+	https://wordpress.org/plugins/classic-widgets/
+Collapsing Categories (v.2.2.7) from Robert Felty
+	https://robfelty.com/plugins
+Dashboard Wordcount (v.0.8) from Ricardo Jorge
+	http://wordpress.org/support/view/plugin-reviews/dashboard-wordcount
+Delete Pending Comments (v.1.0.0) from sudar
+	https://bulkwp.com
+Disable Comments (v.2.3.2) from WPDeveloper
+	https://wordpress.org/plugins/disable-comments/
+Disable New User Notifications (v.2.0.0) from Thomas Griffin
+	https://thomasgriffin.io
+Duplicator (v.1.4.3) from Snap Creek
+	https://snapcreek.com/duplicator/duplicator-free/
+Exec-PHP (v.4.9) from Sören Weber
+	http://bluesome.net/post/2005/08/18/50/
+Google Analytics Dashboard for WP (GADWP) (v.7.3.0) from ExactMetrics
+	https://exactmetrics.com
+Jetpack by WordPress.com (v.8.3) from Automattic
+	https://jetpack.com
+Library File Manager (v.5.2.2) from Aftabul Islam
+	
+List category posts (v.0.86) from Fernando Briano
+	https://github.com/picandocodigo/List-Category-Posts
+Medium (v.1.4.0) from A Medium Corporation
+	
+Parent Category Toggler (v.1.3.4) from Ben Lobaugh
+	http://wordpress.org/extend/plugins/parent-category-toggler/
+Really Simple SSL (v.5.2.1) from Really Simple Plugins
+	https://really-simple-ssl.com
+Redirection (v.5.1.3) from John Godley
+	https://redirection.me/
+Subtle Background Patterns (v.1.2) from Marcus Pohorely
+	http://www.clubdesign.at
+SVG Support (v.2.3.20) from Benbodhi
+	http://wordpress.org/plugins/svg-support/
+Table of Contents Plus (v.2106) from Michael Tran
+	
+UpdraftPlus - Backup/Restore (v.1.16.69) from UpdraftPlus.Com, DavidAnderson
+	https://updraftplus.com
+W3 Total Cache (v.2.2.1) from BoldGrid
+	https://www.boldgrid.com/totalcache/
+Widgets On Pages (v.1.5.0) from Todd Halfpenny
+	https://datamad.co.uk/wordpress-plugins/widgets-on-pages/
+WordPress to Jekyll Exporter (v.2.3.2) from Ben Balter
+	https://github.com/benbalter/wordpress-to-jekyll-exporter/
+WP-Markdown (v.1.6.1) from Stephen Harris
+	
+WP-Optimize - Clean, Compress, Cache (v.3.2.1) from David Anderson, Ruhani Rabin, Team Updraft
+	https://getwpo.com
+WP-ShowHide (v.1.04) from Lester 'GaMerZ' Chan
+	http://lesterchan.net/portfolio/programming/php/
+WP Bulk Delete (v.1.2.2) from Xylus Themes
+	http://xylusthemes.com/plugins/wp-bulk-delete/
+WPFront Notification Bar (v.3.1.0.120613) from Syam Mohan
+	http://wpfront.com/notification-bar-pro/
+WP Hide Post (v.2.0.10) from scriptburn.com
+	http://scriptburn.com/wp-hide-post
+XML Sitemaps (v.4.1.1) from Auctollo
+	http://www.arnebrachhold.de/redir/sitemap-home/
+Yoast SEO (v.13.2) from Team Yoast
+	https://yoa.st/1uj
+
+Active plugins:
+------------------------------
+Akismet Anti-Spam
+Auto-hyperlink URLs
+BackWPup
+Classic Editor
+Collapsing Categories
+Dashboard Wordcount
+Delete Pending Comments
+Disable Comments
+Disable New User Notifications
+Jetpack by WordPress.com
+Library File Manager
+List category posts
+Medium
+Parent Category Toggler
+Redirection
+SVG Support
+Table of Contents Plus
+UpdraftPlus - Backup/Restore
+Widgets On Pages
+WordPress to Jekyll Exporter
+WP-Markdown
+WP-Optimize - Clean, Compress, Cache
+WP-ShowHide
+WPFront Notification Bar
+Yoast SEO
+
+Inactive plugins:
+------------------------------
+All-in-One WP Migration
+Classic Widgets
+Duplicator
+Exec-PHP
+Google Analytics Dashboard for WP (GADWP)
+Really Simple SSL
+Subtle Background Patterns
+W3 Total Cache
+WP Bulk Delete
+WP Hide Post
+XML Sitemaps
