@@ -1,6 +1,9 @@
 # rahils-notepad
 my old wordpress web-site
 
+unchecked preserve repo, so that GitHub doesn't send this bullshit to the arctics!  
+this is a complete waste of space!!  
+
 todo:  
 diff 'n merge old database copies
 
